@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-image: url(/assets/img/sh1.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    height: 400px;
+    background-size: contain;
+    padding: 5%;
+}
+
+.form{
+    padding: 0 10% 0 10%;
+}
+
